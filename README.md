@@ -13,43 +13,47 @@ The goal of this hackathon is to foster creativity, teamwork, and innovation amo
 
 ## Team Details
 
-**Team Name:** [Your Team Name]
+**Team Name:** [ByteBlitz]
 
 ### Team Members
 
 1. **Member 1**  
-   - **Name:** [Full Name]  
-   - **USN:** [University Serial Number]
+   - **Name:** [Shesha Kshitij C R]  
+   - **USN:** [1SI22ET025]
 
 2. **Member 2**  
-   - **Name:** [Full Name]  
-   - **USN:** [University Serial Number]
+   - **Name:** [Ravindraprasad]  
+   - **USN:** [1SI22ET044]
 
 3. **Member 3**  
-   - **Name:** [Full Name]  
-   - **USN:** [University Serial Number]
+   - **Name:** [Jayanth B R]  
+   - **USN:** [1SI22ET004]
 
 4. **Member 4**  
-   - **Name:** [Full Name]  
-   - **USN:** [University Serial Number]
+   - **Name:** [Abdulla Syed]  
+   - **USN:** [1SI22ET001]
 
 ---
 
 ## Project Description
 
 [Provide a brief description of your project, the problem you are solving, and your approach.]
-
+Our approach is to use open weather API and real time sensors to determine whether it should water the field or not.
 ---
 
 ## Technologies Used
 
 - [List the technologies used in your project, e.g., Python, JavaScript, TensorFlow, Node.js, etc.]
+Embedded C
+Blynk Cloud platform
+Open weather API
 
 ---
 
 ## Getting Started
 
 To get started with this repository, follow these steps:
+
 
 1. Clone the repository:
 
